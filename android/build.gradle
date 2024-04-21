@@ -1,7 +1,19 @@
+buildscript {
+    ext.kotlin_version = '1.9.0' // update this line with the latest version
+    repositories {
+        google()  // Google's Maven repository
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:7.0.4' // or your current version
+        classpath 'com.google.gms:google-services:4.3.10' // update this line
+    }
+}
+
 allprojects {
     repositories {
         google()
-        mavenCentral()
+        jcenter()
     }
 }
 

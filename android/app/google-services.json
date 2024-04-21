@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "705845996645",
+    "project_id": "documentai-5e5bc",
+    "storage_bucket": "documentai-5e5bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705845996645:android:9b66b558b2d1e93d4aea8c",
+        "android_client_info": {
+          "package_name": "com.enpoi.driveintegration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCh7-f2tpx2TUy_blEXBPzhuNI7iJm-4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
